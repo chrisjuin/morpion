@@ -10,6 +10,6 @@ $(".game").click(function(){
 		$(this).html("<img src='image2.png'>");
 	}
 
-image++;
+	image++;
 
 });
