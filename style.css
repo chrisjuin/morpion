@@ -1,12 +1,11 @@
 body {
 	padding-top: 10px;
-}	
+}
 [class*="col-"], footer {
 	border: 2px solid black;
-	line-height: 85px;
+	line-height: 100px;
 	text-align: center;
-	height:11em ;
+	height:11em;
 	width: 11em;
 }
-.col-lg-8 { line-height: 200px; } 
-
+.col-lg-8 {line-height: 100px;}

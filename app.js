@@ -13,3 +13,12 @@ $(".game").click(function(){
 	image++;
 
 });
+
+$(".reset").click(function(){
+	alert("clear the game ?"); 	
+	$(".game").html("");	
+}); 
+
+// $(".case").html("");
+
+
