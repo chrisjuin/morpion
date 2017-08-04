@@ -14,11 +14,7 @@ $(".game").click(function(){
 
 });
 
-$(".reset").click(function(){
-	alert("clear the game ?"); 	
-	$(".game").html("");	
-}); 
-
-// $(".case").html("");
-
-
+$(".rest").click(function(){
+	alert("clear the game ?");	
+	$(".game").html("");
+});
